@@ -10,7 +10,6 @@ export const metadata: Metadata = {
   title: "IE Best Betting Sites - Ireland's Top Betting Sites Expert Tested",
   description:
     "Trusted rankings of the best Irish-licensed betting platforms with exclusive bonuses. Expert reviews and comparisons of top betting sites in Ireland.",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({
