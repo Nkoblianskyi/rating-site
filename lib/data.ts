@@ -2,7 +2,7 @@ export const bettingSites = [
   {
     id: 1,
     name: "Midnite",
-    logo: "/placeholder.svg?height=60&width=120&text=Midnite",
+    logo: "/mid.svg",
     rating: 4.7,
     claimed: 26103,
     bonus: "Bet €10 Get €20 + 50 Free Spins",
@@ -19,7 +19,7 @@ export const bettingSites = [
   {
     id: 2,
     name: "Spreadex Sports",
-    logo: "/placeholder.svg?height=60&width=120&text=Spreadex",
+    logo: "/spread.png",
     rating: 4.8,
     claimed: 27876,
     bonus: "Join & get €60 in Free Bets",
@@ -36,7 +36,7 @@ export const bettingSites = [
   {
     id: 3,
     name: "Mr.Play",
-    logo: "/placeholder.svg?height=60&width=120&text=Mr.Play",
+    logo: "/mrplay.png",
     rating: 4.7,
     claimed: 185120,
     bonus: "Bet €5 Get €10",
@@ -53,7 +53,7 @@ export const bettingSites = [
   {
     id: 4,
     name: "BetFred",
-    logo: "/placeholder.svg?height=60&width=120&text=BetFred",
+    logo: "/betfred.png",
     rating: 4.9,
     claimed: 265457,
     bonus: "Bet €10 → Get €50",
@@ -70,7 +70,7 @@ export const bettingSites = [
   {
     id: 5,
     name: "BoyleSports",
-    logo: "/placeholder.svg?height=60&width=120&text=BoyleSports",
+    logo: "/boyle.png",
     rating: 4.9,
     claimed: 29105,
     bonus: "Bet €10 Get €30 + €10 Casino Bonus",
@@ -87,7 +87,7 @@ export const bettingSites = [
   {
     id: 6,
     name: "BetVictor",
-    logo: "/placeholder.svg?height=60&width=120&text=BetVictor",
+    logo: "/betvictor.png",
     rating: 4.9,
     claimed: 29891,
     bonus: "Bet €10 → Get €30 in Free Bets",

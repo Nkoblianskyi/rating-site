@@ -14,21 +14,21 @@ export function Footer() {
   const organizations = [
     {
       name: "GambleAware",
-      logo: "/placeholder.svg?height=40&width=80&text=GambleAware",
+      logo: "/gamble.webp",
       url: "https://www.gambleaware.org",
     },
-    { name: "GamCare", logo: "/placeholder.svg?height=40&width=80&text=GamCare", url: "https://www.gamcare.org.uk" },
+    { name: "GamCare", logo: "/gamecare.svg", url: "https://www.gamcare.org.uk" },
     {
       name: "GamblingTherapy",
-      logo: "/placeholder.svg?height=40&width=80&text=GamblingTherapy",
+      logo: "/gordon.png",
       url: "https://www.gamblingtherapy.org",
     },
     {
       name: "Gamblers Anonymous IE",
-      logo: "/placeholder.svg?height=40&width=80&text=GA+Ireland",
+      logo: "/anonymos.avif",
       url: "https://www.gamblersanonymous.ie",
     },
-    { name: "EGBA", logo: "/placeholder.svg?height=40&width=80&text=EGBA", url: "https://www.egba.eu" },
+    { name: "EGBA", logo: "/egba.png", url: "https://www.egba.eu" },
   ]
 
   return (
