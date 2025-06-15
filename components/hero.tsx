@@ -30,7 +30,7 @@ export function Hero() {
                 <Button
                   size="sm"
                   variant="outline"
-                  className="border-gray-600 hover:bg-gray-800/50 text-xs py-1 h-7 text-white"
+                  className="border-gray-600 hover:bg-gray-800/50 text-xs py-1 h-7 text-black"
                 >
                   Compare Features
                 </Button>
